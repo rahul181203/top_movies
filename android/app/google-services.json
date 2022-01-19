@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586135039847",
+    "project_id": "fav-movies-7e4ee",
+    "storage_bucket": "fav-movies-7e4ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586135039847:android:0ad1c6cdaf7a912dd6c9c2",
+        "android_client_info": {
+          "package_name": "com.rahulsai.top_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586135039847-5ai30outkflfo9hasjm9kls9k3at8ukh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGk_nTxjW_Q6hLpG6lL-iRoWNuq3a4_E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586135039847-5ai30outkflfo9hasjm9kls9k3at8ukh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
